@@ -1,1 +1,287 @@
-[{"id": "9II3OGZETo4", "title": "TULUS - Hati-Hati di Jalan (Official Music Video)", "author": "Tulus", "source": "https://www.youtube.com/@musiktulus", "url": "https://www.youtube.com/watch?v=9II3OGZETo4", "category": "Indonesian Songs", "mood": "Melankolis", "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."}, {"id": "2Vv-BfVoq4g", "title": "Ed Sheeran - Perfect (Official Music Video)", "author": "Ed Sheeran", "source": "https://www.youtube.com/@EdSheeran", "url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g", "category": "International Songs", "mood": "Romantis", "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."}, {"id": "lp-EO5I60KA", "title": "Ed Sheeran - Thinking Out Loud (Official Music Video)", "author": "Ed Sheeran", "source": "https://www.youtube.com/@EdSheeran", "url": "https://www.youtube.com/watch?v=lp-EO5I60KA", "category": "International Songs", "mood": "Romantis", "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."}, {"id": "0yW7w8F2TVA", "title": "James Arthur - Say You Won't Let Go", "author": "JamesAVEVO", "source": "https://www.youtube.com/@JamesAVEVO", "url": "https://www.youtube.com/watch?v=0yW7w8F2TVA", "category": "International Songs", "mood": "Romantis", "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."}, {"id": "rtOvBOTyX00", "title": "Christina Perri - A Thousand Years [Official Music Video]", "author": "Christina Perri", "source": "https://www.youtube.com/@ChristinaPerri", "url": "https://www.youtube.com/watch?v=rtOvBOTyX00", "category": "International Songs", "mood": "Romantis", "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."}, {"id": "LjhCEhWiKXk", "title": "Bruno Mars - Just The Way You Are (Official Music Video)", "author": "Bruno Mars", "source": "https://www.youtube.com/@brunomars", "url": "https://www.youtube.com/watch?v=LjhCEhWiKXk", "category": "International Songs", "mood": "Romantis", "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."}]
+[
+  {
+    "id": "uWsRz7uApj4",
+    "title": "MALIQ & D'Essentials - Kita Bikin Romantis (Music Video)",
+    "author": "MALIQ & D'Essentials",
+    "source": "https://www.youtube.com/@MALIQDEssentials",
+    "url": "https://www.youtube.com/watch?v=uWsRz7uApj4",
+    "category": "Indonesian Songs",
+    "tags": [
+      "Romantic Songs",
+      "Love Songs"
+    ],
+    "mood": "Manis dan ceria",
+    "duration": "4:57",
+    "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."
+  },
+  {
+    "id": "zt4NeGqnCOk",
+    "title": "Keisya Levronka - Jadi Kekasihku Saja (Official Music Video)",
+    "author": "KeisyaLevronkaVEVO",
+    "source": "https://www.youtube.com/@keisyalevronkavevo3255",
+    "url": "https://www.youtube.com/watch?v=zt4NeGqnCOk",
+    "category": "Indonesian Songs",
+    "tags": [
+      "Romantic Songs",
+      "Love Songs"
+    ],
+    "mood": "Jatuh cinta",
+    "duration": "2:51",
+    "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."
+  },
+  {
+    "id": "pyLDM9NeRnQ",
+    "title": "Yovie Widianto, HIVI! - Semenjak Ada Dirimu (Official Music Video)",
+    "author": "Yovie Widianto",
+    "source": "https://www.youtube.com/@YovieWidiantoChannel",
+    "url": "https://www.youtube.com/watch?v=pyLDM9NeRnQ",
+    "category": "Indonesian Songs",
+    "tags": [
+      "Romantic Songs",
+      "Love Songs"
+    ],
+    "mood": "Ceria dan hangat",
+    "duration": "4:21",
+    "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."
+  },
+  {
+    "id": "gR5I408_tCc",
+    "title": "Armada - Awas Jatuh Cinta (Official Music Video)",
+    "author": "Armada",
+    "source": "https://www.youtube.com/@ArmadaBandOfficial",
+    "url": "https://www.youtube.com/watch?v=gR5I408_tCc",
+    "category": "Indonesian Songs",
+    "tags": [
+      "Romantic Songs",
+      "Love Songs"
+    ],
+    "mood": "Jatuh cinta",
+    "duration": "6:26",
+    "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."
+  },
+  {
+    "id": "0NMZVR4TaDk",
+    "title": "Hanin Dhiya & Stevan Pasaribu - Selalu Untuk Selamanya (Official Music Video)",
+    "author": "Stevan Pasaribu Musica Official",
+    "source": "https://www.youtube.com/@StevanPasaribuMusicaOfficial",
+    "url": "https://www.youtube.com/watch?v=0NMZVR4TaDk",
+    "category": "Indonesian Songs",
+    "tags": [
+      "Romantic Songs",
+      "Love Songs"
+    ],
+    "mood": "Setia dan hangat",
+    "duration": "4:15",
+    "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."
+  },
+  {
+    "id": "NRGDT2UUlsk",
+    "title": "TULUS - Jatuh Suka (Official Music Video)",
+    "author": "Tulus",
+    "source": "https://www.youtube.com/@musiktulus",
+    "url": "https://www.youtube.com/watch?v=NRGDT2UUlsk",
+    "category": "Indonesian Songs",
+    "tags": [
+      "Romantic Songs",
+      "Love Songs"
+    ],
+    "mood": "Jatuh cinta",
+    "duration": "3:58",
+    "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."
+  },
+  {
+    "id": "ZeFpigRaXbI",
+    "title": "Tiara Andini, Arsy Widianto - Lagu Pernikahan Kita",
+    "author": "TiaraAndiniVEVO",
+    "source": "https://www.youtube.com/@tiaraandinivevo9504",
+    "url": "https://www.youtube.com/watch?v=ZeFpigRaXbI",
+    "category": "Indonesian Songs",
+    "tags": [
+      "Romantic Songs",
+      "Love Songs"
+    ],
+    "mood": "Pernikahan",
+    "duration": "4:40",
+    "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."
+  },
+  {
+    "id": "DoJtU6vrpHo",
+    "title": "Mytha - Denganmu Cinta (Official Music Video)",
+    "author": "MythaVEVO",
+    "source": "https://www.youtube.com/@MythaVEVO",
+    "url": "https://www.youtube.com/watch?v=DoJtU6vrpHo",
+    "category": "Indonesian Songs",
+    "tags": [
+      "Romantic Songs",
+      "Love Songs"
+    ],
+    "mood": "Romantis",
+    "duration": "3:28",
+    "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."
+  },
+  {
+    "id": "t0Bt3a-MLGs",
+    "title": "Virgoun - Surat Cinta Untuk Starla (Official MV) | Caitlin Halderman & Jefri Nichol",
+    "author": "Virgoun",
+    "source": "https://www.youtube.com/@Virgoun",
+    "url": "https://www.youtube.com/watch?v=t0Bt3a-MLGs",
+    "category": "Indonesian Songs",
+    "tags": [
+      "Romantic Songs",
+      "Love Songs"
+    ],
+    "mood": "Romantis dan menyentuh",
+    "duration": "4:40",
+    "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."
+  },
+  {
+    "id": "1Tbp27uTwEA",
+    "title": "Nicky Tirta Feat Vanessa Angel - Indah Cintaku (Official Music Video NAGASWARA) #music",
+    "author": "NAGASWARA Official Video Indonesian Music Channel",
+    "source": "https://www.youtube.com/@NagaswaraOfficial",
+    "url": "https://www.youtube.com/watch?v=1Tbp27uTwEA",
+    "category": "Indonesian Songs",
+    "tags": [
+      "Romantic Songs",
+      "Love Songs"
+    ],
+    "mood": "Manis dan ceria",
+    "duration": "4:00",
+    "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."
+  },
+  {
+    "id": "9gY0vpjbDuA",
+    "title": "Raisa - Jatuh Hati (Official Music Video)",
+    "author": "raisa6690",
+    "source": "https://www.youtube.com/@raisa6690",
+    "url": "https://www.youtube.com/watch?v=9gY0vpjbDuA",
+    "category": "Indonesian Songs",
+    "tags": [
+      "Romantic Songs",
+      "Love Songs"
+    ],
+    "mood": "Jatuh cinta",
+    "duration": "3:59",
+    "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."
+  },
+  {
+    "id": "6wcY5gYF_2g",
+    "title": "Afgan & Raisa - Percayalah (Official Music Video)",
+    "author": "raisa6690",
+    "source": "https://www.youtube.com/@raisa6690",
+    "url": "https://www.youtube.com/watch?v=6wcY5gYF_2g",
+    "category": "Indonesian Songs",
+    "tags": [
+      "Romantic Songs",
+      "Love Songs"
+    ],
+    "mood": "Hangat dan menenangkan",
+    "duration": "4:55",
+    "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."
+  },
+  {
+    "id": "okjEXbd1wB0",
+    "title": "Afgan, Isyana Sarasvati, Rendy Pandugo - Lagu Cinta | Official Music Video",
+    "author": "Trinity Optima Production",
+    "source": "https://www.youtube.com/@TrinityOptimaProduction",
+    "url": "https://www.youtube.com/watch?v=okjEXbd1wB0",
+    "category": "Indonesian Songs",
+    "tags": [
+      "Romantic Songs",
+      "Love Songs"
+    ],
+    "mood": "Cinta dan harapan",
+    "duration": "4:47",
+    "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."
+  },
+  {
+    "id": "o25_Tn8BnFM",
+    "title": "ANDMESH  - ANUGERAH TERINDAH (OFFICIAL MUSIC VIDEO)",
+    "author": "HITS Records",
+    "source": "https://www.youtube.com/@hitsrecords_",
+    "url": "https://www.youtube.com/watch?v=o25_Tn8BnFM",
+    "category": "Indonesian Songs",
+    "tags": [
+      "Romantic Songs",
+      "Love Songs"
+    ],
+    "mood": "Hangat dan bersyukur",
+    "duration": "5:04",
+    "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."
+  },
+  {
+    "id": "cfYhBLDWlvw",
+    "title": "Andmesh - Sampai Tua Nanti (Official Music Video)",
+    "author": "HITS Records",
+    "source": "https://www.youtube.com/@hitsrecords_",
+    "url": "https://www.youtube.com/watch?v=cfYhBLDWlvw",
+    "category": "Indonesian Songs",
+    "tags": [
+      "Romantic Songs",
+      "Love Songs"
+    ],
+    "mood": "Setia dan romantis",
+    "duration": "4:26",
+    "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."
+  },
+  {
+    "id": "9II3OGZETo4",
+    "title": "TULUS - Hati-Hati di Jalan (Official Music Video)",
+    "author": "Tulus",
+    "source": "https://www.youtube.com/@musiktulus",
+    "url": "https://www.youtube.com/watch?v=9II3OGZETo4",
+    "category": "Indonesian Songs",
+    "mood": "Melankolis",
+    "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."
+  },
+  {
+    "id": "2Vv-BfVoq4g",
+    "title": "Ed Sheeran - Perfect (Official Music Video)",
+    "author": "Ed Sheeran",
+    "source": "https://www.youtube.com/@EdSheeran",
+    "url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+    "category": "International Songs",
+    "mood": "Romantis",
+    "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."
+  },
+  {
+    "id": "lp-EO5I60KA",
+    "title": "Ed Sheeran - Thinking Out Loud (Official Music Video)",
+    "author": "Ed Sheeran",
+    "source": "https://www.youtube.com/@EdSheeran",
+    "url": "https://www.youtube.com/watch?v=lp-EO5I60KA",
+    "category": "International Songs",
+    "mood": "Romantis",
+    "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."
+  },
+  {
+    "id": "0yW7w8F2TVA",
+    "title": "James Arthur - Say You Won't Let Go",
+    "author": "JamesAVEVO",
+    "source": "https://www.youtube.com/@JamesAVEVO",
+    "url": "https://www.youtube.com/watch?v=0yW7w8F2TVA",
+    "category": "International Songs",
+    "mood": "Romantis",
+    "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."
+  },
+  {
+    "id": "rtOvBOTyX00",
+    "title": "Christina Perri - A Thousand Years [Official Music Video]",
+    "author": "Christina Perri",
+    "source": "https://www.youtube.com/@ChristinaPerri",
+    "url": "https://www.youtube.com/watch?v=rtOvBOTyX00",
+    "category": "International Songs",
+    "mood": "Romantis",
+    "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."
+  },
+  {
+    "id": "LjhCEhWiKXk",
+    "title": "Bruno Mars - Just The Way You Are (Official Music Video)",
+    "author": "Bruno Mars",
+    "source": "https://www.youtube.com/@brunomars",
+    "url": "https://www.youtube.com/watch?v=LjhCEhWiKXk",
+    "category": "International Songs",
+    "mood": "Romantis",
+    "license": "Hak cipta artis / label; hanya tautan resmi. MP3 tidak didistribusikan."
+  }
+]

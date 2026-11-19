@@ -27,7 +27,13 @@ Open the address printed by Vite. The first visit opens the Welcome Portal. All 
 - `src/messages.json`: 1,000 message entries in 25 categories (200 opening passages combined with five substantial closing passages; these are not 1,000 independently authored letters).
 - `src/games.js`: 20 playable game modes, levels, scores, rewards and timer cleanup.
 - `src/audio.js`: persistent MP3 playback, local file uploads and browser speech synthesis.
-- `src/music.json`: 50 MP3 recommendations with official sources, duration, mood and attribution; recommendations.json additionally lists six verified official YouTube recommendations. Fifteen category filters are available; categories without verified MP3 entries show a clear empty state and support local uploads.
+<!-- coderabbit-ai-generated:v1 -->
+
+<!-- coderabbit-ai-generated-section:v1:fa4b890e3bb5923012d14f942eba44b978ed28851a7cfbb6142cc42dee49cb02 -->
+
+- `src/music.json`: 50 MP3 recommendations with official sources, duration, mood and attribution. `src/recommendations.json` also lists 21 official YouTube videos, including 16 Indonesian songs. YouTube favorites, search and category filters are separate from MP3 playback; videos open on YouTube. Categories without MP3 entries show an empty state and support local uploads.
+
+<!-- /coderabbit-ai-generated:v1 -->
 - `src/config.js`: chapter links. Set the first chapter's `url` to your actual Chapter I address. `REPLACE_WITH_CHAPTER_I_URL` documents the placeholder; no relationship to an existing Chapter I is assumed.
 - `public/audio`: three MP3 files by Kevin MacLeod, licensed CC BY 4.0; see MUSIC-SOURCES.md.
 
