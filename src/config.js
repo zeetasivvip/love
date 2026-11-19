@@ -1,0 +1,1 @@
+export const chapters = [{name:'Chapter I — A Previous Beginning',url:null,placeholder:'REPLACE_WITH_CHAPTER_I_URL'},{name:'Chapter II — The Magical World of Love',url:'#/home'},{name:'Chapter III — A New Dream Awaits',url:null},{name:'Chapter IV — Beyond The Stars',url:null}];
