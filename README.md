@@ -17,11 +17,23 @@ npm test
 npm run build
 ```
 
-Open the address printed by Vite. The first visit opens the Welcome Portal. All pages use hash routes; deploy the `dist` directory to any static hosting, or use Vercel with build command `npm run build` and output directory `dist`. No rewrite rules are required.
+<!-- coderabbit-ai-generated:v1 -->
+
+<!-- coderabbit-ai-generated-section:v1:9e8c120adc29440c8714b253ac679f4f7d92aa09f49a5a8009787d3e81b9198f -->
+
+Open the address printed by Vite. The opening flower garden leads into a 15-step journey. Each room has an activity to complete before the next room opens; previously completed rooms remain accessible. Direct links to locked rooms return to the current step. All pages use hash routes; deploy the `dist` directory to any static hosting, or use Vercel with build command `npm run build` and output directory `dist`. No rewrite rules are required.
+
+<!-- /coderabbit-ai-generated:v1 -->
 
 ## Structure
 
-- `src/main.js`: application shell and route views.
+<!-- coderabbit-ai-generated:v1 -->
+
+<!-- coderabbit-ai-generated-section:v1:6c06863b687a00a9a3f6da8f68779ae8f16f9b1fc6c729fe6e747f563f860d1c -->
+
+- `src/main.js`: application shell, route views and activity completion. `src/journey.js` defines the ordered steps and route access.
+
+<!-- /coderabbit-ai-generated:v1 -->
 - `src/style.css`: responsive room themes, illustration, animation, reduced-motion support.
 - `src/data.js`, `src/story-plots.js`: rooms, games, library stories, interactive story themes.
 - `src/messages.json`: 1,000 message entries in 25 categories (200 opening passages combined with five substantial closing passages; these are not 1,000 independently authored letters).
@@ -31,7 +43,13 @@ Open the address printed by Vite. The first visit opens the Welcome Portal. All 
 
 <!-- coderabbit-ai-generated-section:v1:fa4b890e3bb5923012d14f942eba44b978ed28851a7cfbb6142cc42dee49cb02 -->
 
-- `src/music.json`: 50 MP3 recommendations with official sources, duration, mood and attribution. `src/recommendations.json` also lists 21 official YouTube videos, including 16 Indonesian songs. YouTube favorites, search and category filters are separate from MP3 playback; videos open on YouTube. Categories without MP3 entries show an empty state and support local uploads.
+<!-- coderabbit-ai-generated:v1 -->
+
+<!-- coderabbit-ai-generated-section:v1:92f9c3e26111d25ba3d476c271aca9dc2f5499042f06098a3055d254e9dc5e99 -->
+
+- `src/music.json`: 60 MP3 recommendations with official sources, duration, mood and attribution. `src/recommendations.json` also lists 21 official YouTube videos, including 16 Indonesian songs. YouTube favorites, search and category filters are separate from MP3 playback; videos open on YouTube. Categories without MP3 entries show an empty state and support local uploads.
+
+<!-- /coderabbit-ai-generated:v1 -->
 
 <!-- /coderabbit-ai-generated:v1 -->
 - `src/config.js`: chapter links. Set the first chapter's `url` to your actual Chapter I address. `REPLACE_WITH_CHAPTER_I_URL` documents the placeholder; no relationship to an existing Chapter I is assumed.
@@ -45,7 +63,13 @@ Individual reader routes are `#/read/0` through `#/read/59`. Game routes are `#/
 
 ## Browser storage and media
 
-Favorites, scores, settings, daily tasks, wishes and reward progress use localStorage. Deleting site data resets progress. MP3 file contents are never uploaded or stored; object URLs work for the current page session, and local files need to be selected again after reload. The mini-player persists across internal navigation. Reloading or closing the tab stops playback. Remote tracks require internet; no copyrighted YouTube audio is downloaded or converted.
+<!-- coderabbit-ai-generated:v1 -->
+
+<!-- coderabbit-ai-generated-section:v1:34cdd7abc30151f953f1986e771da98c832e2d51e81b04d12f40702fa96ffef3 -->
+
+Journey progress, favorites, scores, settings, daily tasks, wishes and reward progress use localStorage. The journey starts from its first step for existing visitors as well. Deleting site data resets progress.
+
+<!-- /coderabbit-ai-generated:v1 --> MP3 file contents are never uploaded or stored; object URLs work for the current page session, and local files need to be selected again after reload. The mini-player persists across internal navigation. Reloading or closing the tab stops playback. Remote tracks require internet; no copyrighted YouTube audio is downloaded or converted.
 
 Speech uses the browser's installed voices, not a hosted AI service. Voice support differs by device. When no voice is available, controls are disabled and an explanation is shown. The current sentence appears under the reader. Indonesian pronunciation must be tested on a device with an Indonesian voice installed.
 

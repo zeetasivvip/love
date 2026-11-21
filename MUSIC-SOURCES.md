@@ -4,7 +4,13 @@
 
 Checked 2026-11-19. This is the attribution record for bundled and streamed audio.
 
-The official [Incompetech licensing page](https://incompetech.com/music/royalty-free/licenses/) provides a Creative Commons credit generator stating **CC BY 4.0**. Its official [track catalog](https://incompetech.com/music/royalty-free/pieces.json) supplies filenames, composers, moods, lengths, ISRCs and selected YouTube references. CC BY 4.0 permits sharing and adaptation with attribution and a license link. Recordings are unmodified. Three MP3 files are bundled; the remaining 47 stream from the composer's website. All 47 remote MP3 endpoints responded HTTP 206 to range checks. Remote availability can change.
+The official [Incompetech licensing page](https://incompetech.com/music/royalty-free/licenses/) provides a Creative Commons credit generator stating **CC BY 4.0**. Its official [track catalog](https://incompetech.com/music/royalty-free/pieces.json) supplies filenames, composers, moods, lengths, ISRCs and selected YouTube references. CC BY 4.0 permits sharing and adaptation with attribution and a license link. Recordings are unmodified. <!-- coderabbit-ai-generated:v1 -->
+
+<!-- coderabbit-ai-generated-section:v1:e78e0c61552be237d8dead6a6a1a3d3f480e2f3620552a3f02c054f48d6217f9 -->
+
+Three MP3 files are bundled; the remaining 57 stream from the composer's website. The original 47 remote endpoints and the 10 added on 2026-11-21 responded HTTP 206 to range checks. Remote availability can change.
+
+<!-- /coderabbit-ai-generated:v1 -->
 
 ## References requested by the user
 
@@ -313,9 +319,75 @@ A Very Brady Special — Kevin MacLeod (incompetech.com). Licensed under CC BY 4
 
 [Official source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900060) · Duration: 00:06:28 · Mood: Calming, Relaxed. [Official MP3](https://incompetech.com/music/royalty-free/mp3-royaltyfree/A%20Very%20Brady%20Special.mp3). [YouTube linked by composer](https://youtu.be/NH_Ewhigrto).
 
+<!-- coderabbit-ai-generated:v1 -->
+
+<!-- coderabbit-ai-generated-section:v1:854e2f3f22f1c115d897fffb248b6cc4b66f10101ece866aa9bee02c7040a7f6 -->
+
 ### The Entertainer
 
 The Entertainer — Kevin MacLeod (incompetech.com). Licensed under CC BY 4.0. https://creativecommons.org/licenses/by/4.0/
 
 [Official source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900059) · Duration: 00:03:13 · Mood: Bright, Bouncy. [Official MP3](https://incompetech.com/music/royalty-free/mp3-royaltyfree/The%20Entertainer.mp3). [YouTube linked by composer](https://youtu.be/uqkw5byLF2s).
+
+### Night in Venice
+
+Night in Venice — Kevin MacLeod (incompetech.com). Licensed under CC BY 4.0. https://creativecommons.org/licenses/by/4.0/
+
+[Official source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900056) · Duration: 00:03:38 · Mood: Calming, Grooving, Relaxed. [Official MP3](https://incompetech.com/music/royalty-free/mp3-royaltyfree/Night%20in%20Venice.mp3). [YouTube linked by composer](https://youtu.be/dM2ZZ3Sdeco).
+
+### Study And Relax
+
+Study And Relax — Kevin MacLeod (incompetech.com). Licensed under CC BY 4.0. https://creativecommons.org/licenses/by/4.0/
+
+[Official source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900030) · Duration: 00:03:43 · Mood: Calming, Grooving, Relaxed. [Official MP3](https://incompetech.com/music/royalty-free/mp3-royaltyfree/Study%20And%20Relax.mp3). [YouTube linked by composer](https://youtu.be/5Z_Ecyh6e7A).
+
+### Past Sadness
+
+Past Sadness — Kevin MacLeod (incompetech.com). Licensed under CC BY 4.0. https://creativecommons.org/licenses/by/4.0/
+
+[Official source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900007) · Duration: 00:03:33 · Mood: Calming, Grooving, Relaxed. [Official MP3](https://incompetech.com/music/royalty-free/mp3-royaltyfree/Past%20Sadness.mp3). [YouTube linked by composer](https://youtu.be/TCpAjWUn0qg).
+
+### Smooth Lovin
+
+Smooth Lovin — Kevin MacLeod (incompetech.com). Licensed under CC BY 4.0. https://creativecommons.org/licenses/by/4.0/
+
+[Official source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700077) · Duration: 00:04:19 · Mood: Grooving, Calming, Relaxed. [Official MP3](https://incompetech.com/music/royalty-free/mp3-royaltyfree/Smooth%20Lovin.mp3). [YouTube linked by composer](https://youtu.be/z6j690YzFFY).
+
+### Crinoline Dreams
+
+Crinoline Dreams — Kevin MacLeod (incompetech.com). Licensed under CC BY 4.0. https://creativecommons.org/licenses/by/4.0/
+
+[Official source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700073) · Duration: 00:04:06 · Mood: Bright, Calming, Relaxed. [Official MP3](https://incompetech.com/music/royalty-free/mp3-royaltyfree/Crinoline%20Dreams.mp3). [YouTube linked by composer](https://youtu.be/4a_bgjheZkE).
+
+### Bittersweet
+
+Bittersweet — Kevin MacLeod (incompetech.com). Licensed under CC BY 4.0. https://creativecommons.org/licenses/by/4.0/
+
+[Official source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700004) · Duration: 00:03:22 · Mood: Calming, Relaxed, Somber. [Official MP3](https://incompetech.com/music/royalty-free/mp3-royaltyfree/Bittersweet.mp3). [YouTube linked by composer](https://youtu.be/H6ydejhm4EY).
+
+### Dreamer
+
+Dreamer — Kevin MacLeod (incompetech.com). Licensed under CC BY 4.0. https://creativecommons.org/licenses/by/4.0/
+
+[Official source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600043) · Duration: 00:03:24 · Mood: Calming, Relaxed. [Official MP3](https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dreamer.mp3). [YouTube linked by composer](https://youtu.be/zrLhYzn-cGI).
+
+### Almost New
+
+Almost New — Kevin MacLeod (incompetech.com). Licensed under CC BY 4.0. https://creativecommons.org/licenses/by/4.0/
+
+[Official source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1800008) · Duration: 00:03:23 · Mood: Bright, Calming, Mysterious. [Official MP3](https://incompetech.com/music/royalty-free/mp3-royaltyfree/Almost%20New.mp3). [YouTube linked by composer](https://youtu.be/MiP8oA4pEFE).
+
+### Cheery Monday
+
+Cheery Monday — Kevin MacLeod (incompetech.com). Licensed under CC BY 4.0. https://creativecommons.org/licenses/by/4.0/
+
+[Official source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700065) · Duration: 00:01:20 · Mood: Bouncy, Bright, Relaxed. [Official MP3](https://incompetech.com/music/royalty-free/mp3-royaltyfree/Cheery%20Monday.mp3). [YouTube linked by composer](https://youtu.be/LS4ZZbSnEL4).
+
+### Backbay Lounge
+
+Backbay Lounge — Kevin MacLeod (incompetech.com). Licensed under CC BY 4.0. https://creativecommons.org/licenses/by/4.0/
+
+[Official source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700068) · Duration: 00:04:27 · Mood: Bright, Grooving, Relaxed. [Official MP3](https://incompetech.com/music/royalty-free/mp3-royaltyfree/Backbay%20Lounge.mp3). [YouTube linked by composer](https://youtu.be/I0gPJrtRHds).
+
+<!-- /coderabbit-ai-generated:v1 -->
 
